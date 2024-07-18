@@ -54,7 +54,7 @@ Follow these steps to set up and run the project locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/01chaitanya01/todo-website.git
+git clone (https://github.com/dhruv061103/To-do-list.git)
 cd todo-website
 ```
 
